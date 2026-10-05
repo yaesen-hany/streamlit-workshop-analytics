@@ -1,0 +1,28 @@
+course,track,trainer,city,date,learners,rating,cost,status
+Python for Beginners,Data Science,Ahmed Samir,Cairo,2025-01-12,28,4.5,3500,Completed
+Machine Learning Basics,AI,Mona Hassan,Cairo,2025-01-26,22,4.7,5200,Completed
+HTML & CSS Essentials,Web Development,Omar Khaled,Alexandria,2025-02-09,35,4.2,2800,Completed
+JavaScript Fundamentals,Web Development,Omar Khaled,Giza,2025-02-23,30,4.0,3000,Completed
+Data Visualization with Power BI,Data Science,Sara Adel,Alexandria,2025-03-08,26,4.6,4000,Completed
+Deep Learning with TensorFlow,AI,Mona Hassan,Giza,2025-03-22,18,4.8,6500,Completed
+React from Scratch,Web Development,Youssef Nabil,Cairo,2025-04-05,24,4.3,4500,Completed
+SQL for Data Analysis,Data Science,Ahmed Samir,Giza,2025-04-19,32,4.4,3200,Completed
+Natural Language Processing,AI,Laila Mostafa,Alexandria,2025-05-03,16,4.9,7000,Completed
+Node.js Backend,Web Development,Youssef Nabil,Alexandria,2025-05-17,21,3.8,4200,Completed
+Python for Beginners,Data Science,Sara Adel,Alexandria,2025-05-31,34,4.1,3500,Completed
+Computer Vision,AI,Laila Mostafa,Cairo,2025-06-14,15,4.6,7500,Completed
+Statistics for Data Science,Data Science,Ahmed Samir,Cairo,2025-06-28,29,3.5,3800,Completed
+Full-Stack with Django,Web Development,Omar Khaled,Giza,2025-07-12,20,4.2,5800,Completed
+Prompt Engineering,AI,Mona Hassan,Cairo,2025-07-26,40,4.7,2500,Completed
+Excel for Analysts,Data Science,Sara Adel,Giza,2025-08-09,45,4.0,1800,Completed
+Responsive Web Design,Web Development,Youssef Nabil,Cairo,2025-08-23,27,,2900,Completed
+Generative AI Workshop,AI,Laila Mostafa,Giza,2025-09-06,38,4.8,6000,Completed
+Big Data with Spark,Data Science,Ahmed Samir,Alexandria,2025-09-20,14,3.6,9500,Completed
+TypeScript Deep Dive,Web Development,Omar Khaled,Alexandria,2025-10-04,19,4.1,4800,Ongoing
+MLOps Essentials,AI,Mona Hassan,Cairo,2025-10-18,12,,8200,Ongoing
+Data Cleaning with Pandas,Data Science,Sara Adel,,2025-11-01,25,4.3,3300,Ongoing
+Next.js Masterclass,Web Development,Youssef Nabil,Giza,2025-11-15,,4.4,5000,Ongoing
+Reinforcement Learning,AI,Laila Mostafa,Alexandria,2025-11-29,10,3.9,9000,Cancelled
+Tableau Dashboards,Data Science,Ahmed Samir,Cairo,2025-12-13,23,4.5,,Cancelled
+Power BI Advanced,Data Science,Sara Adel,Giza,2025-12-27,31,4.6,4600,Ongoing
+Prompt Engineering,AI,Mona Hassan,Cairo,2025-07-26,40,4.7,2500,Completed
